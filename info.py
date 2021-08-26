@@ -59,9 +59,9 @@ Mod app  Search Bot 🇱🇰
 Here you can find any media file by searching its name 😊
 
 Bot : {username} 🤖
-Support Group : @slbotzone  🇱🇰
-Updates Channel: @sl_bot_zone 🇱🇰
-Developper : @supunma🇱🇰
+ Group : @movie_request3
+Channel: @playitkannada1
+Developper : @sruja_12
 """
 
 START_MSG = environ.get('START_MSG', default_start_massege)
